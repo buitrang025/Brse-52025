@@ -1,4 +1,3 @@
 login
-Create category
-Create category 2
 Update category
+Create category
